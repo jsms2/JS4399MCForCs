@@ -1,0 +1,11 @@
+E:\JS\Project\JS4399MC\JS4399MC\bin\Debug\JS4399MC.exe.config
+E:\JS\Project\JS4399MC\JS4399MC\bin\Debug\JS4399MC.exe
+E:\JS\Project\JS4399MC\JS4399MC\bin\Debug\JS4399MC.pdb
+E:\JS\Project\JS4399MC\JS4399MC\bin\Debug\Newtonsoft.Json.dll
+E:\JS\Project\JS4399MC\JS4399MC\bin\Debug\Newtonsoft.Json.xml
+E:\JS\Project\JS4399MC\JS4399MC\obj\Debug\JS4399MC.csproj.AssemblyReference.cache
+E:\JS\Project\JS4399MC\JS4399MC\obj\Debug\JS4399MC.csproj.SuggestedBindingRedirects.cache
+E:\JS\Project\JS4399MC\JS4399MC\obj\Debug\JS4399MC.csproj.CoreCompileInputs.cache
+E:\JS\Project\JS4399MC\JS4399MC\obj\Debug\JS4399MC.csproj.CopyComplete
+E:\JS\Project\JS4399MC\JS4399MC\obj\Debug\JS4399MC.exe
+E:\JS\Project\JS4399MC\JS4399MC\obj\Debug\JS4399MC.pdb
